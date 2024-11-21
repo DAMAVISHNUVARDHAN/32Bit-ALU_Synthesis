@@ -49,8 +49,6 @@ endcase
 end
 
 endmodule
-
-
 ### Step 1: Getting Started
 
 Synthesis requires three files as follows,
